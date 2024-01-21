@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 💬 Ask me about **Cloud Computing and Ethical Hacking**
 - 📫 How to reach me: shubhammisra936@gmail.com
 - ⚡ Fun fact: ☕ I'm fueled by caffeine and curiosity. Always open to new challenges and learning opportunities! ✨
