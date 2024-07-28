@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: shubhammisra936@gmail.com
 - ⚡ Fun fact: ☕ I'm fueled by caffeine and curiosity. Always open to new challenges and learning opportunities! ✨
 
+  ![Sam-Orion's Stats](https://github-readme-stats.vercel.app/api?username=Sam-Orion&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+  ![Sam-Orion's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sam-Orion&theme=vue-dark&hide_border=false)
+  ![Sam-Orion's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Orion&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
 ## GSSOC(24) Badges
 <div style='display:flex; align-items:center; gap: 20px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
