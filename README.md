@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Cybersecurity, Web Dev and Cloud Computing<br>💬 Ask me about Cloud Computing and Ethical Hacking<br>📫 How to reach me: shubhammisra936@gmail.com<br>⚡ Fun fact: ☕ I'm fueled by caffeine and curiosity. Always open to new challenges and learning opportunities! ✨
+🌱 I’m currently learning Data Structure and Algorithms, Web Dev and Web3<br>💬 Ask me about Web Dev and Web3<br>📫 How to reach me: shubhammisra936@gmail.com<br>⚡ Fun fact: ☕ I'm fueled by caffeine and curiosity. Always open to new challenges and learning opportunities! ✨
 
 
 ## 🌐 Socials:
