@@ -2,7 +2,7 @@
 
 ### An experienced Software Developer / AI Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sam-Orion&label=Profile views&color=0e75b6&style=flat" alt="Sam-Orion" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sam-Orion&label=Profileviews&color=0e75b6&style=flat" alt="Sam-Orion" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=Sam-Orion&theme=tokyonight" alt="Sam-Orion" /></a> </p>
 
