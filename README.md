@@ -45,5 +45,5 @@
 
 <p><img align="center" src="https://github-readme-stats-rho-sable-68.vercel.app/api?username=Sam-Orion&show_icons=true&theme=tokyonight&locale=en" alt="Sam-Orion" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Orion&" alt="Sam-Orion" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Orion&theme=tokyonight" alt="Sam-Orion" /></p>
 
