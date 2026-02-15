@@ -1,0 +1,14 @@
+{
+    "backgroundColor": "#1a1b26",
+    "foregroundColor": "#c0caf5",
+    "strongColor": "#f7768e",
+    "weakColor": "#414868",
+    "radarColor": "#7aa2f7",
+    "growingAnimationColor": "#bb9af7",
+    "saturation": "60%",
+    "grade4": "#f7768e",
+    "grade3": "#bb9af7",
+    "grade2": "#7aa2f7",
+    "grade1": "#414868",
+    "grade0": "#24283b"
+}
