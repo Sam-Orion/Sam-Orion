@@ -1,14 +1,14 @@
 {
     "backgroundColor": "#1a1b26",
     "foregroundColor": "#c0caf5",
-    "strongColor": "#f7768e",
-    "weakColor": "#414868",
+    "strongColor": "#ff007c",
+    "weakColor": "#3e4452",
     "radarColor": "#7aa2f7",
-    "growingAnimationColor": "#bb9af7",
+    "growingAnimationColor": "#9d7cd8",
     "saturation": "60%",
-    "grade4": "#f7768e",
-    "grade3": "#bb9af7",
-    "grade2": "#7aa2f7",
-    "grade1": "#414868",
-    "grade0": "#24283b"
+    "grade4": "#ff007c",
+    "grade3": "#9d7cd8",
+    "grade2": "#00e8ff",
+    "grade1": "#444b6a",
+    "grade0": "#2f354b"
 }
