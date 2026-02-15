@@ -36,7 +36,7 @@
 <a href="https://instagram.com/samorion.nit_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samorion.nit_d" height="30" width="40" /></a>
 <a href="https://twitter.com/SyntaxSamuraiX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SyntaxSamuraiX" height="30" width="40" /></a>
 <a href="https://medium.com/@shubhammisra936" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubhammisra936" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/amorion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amorion" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/samorion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amorion" height="30" width="40" /></a>
 <a href="https://leetcode.com/samOrion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samOrion" height="30" width="40" /></a>
 </p>
 
